@@ -1,0 +1,7 @@
+banana
+apple
+kiwi
+test
+veggie
+date
+orange

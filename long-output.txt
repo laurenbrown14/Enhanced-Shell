@@ -1,0 +1,4 @@
+total 28
+-rwxrwxr-x 1 brownl6 brownl6 17408 Oct  7 20:29 [0m[01;32ma.out[0m*
+-rw-rw-r-- 1 brownl6 brownl6  5053 Oct  7 20:28 enhanced_shell.c
+-rw-r--r-- 1 brownl6 brownl6     0 Oct  7 20:30 long-output.txt
